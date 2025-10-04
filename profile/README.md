@@ -9,7 +9,7 @@ We're a small team based in Tallinn who spend most of our time shipping great pr
 | Product | Description | Status |
 |---------|-------------|--------|
 | **[Prosoccer](https://prosoccer.io)** ⚽ | Soccer gaming experience | 🪦 |
-| **[Wajer](https://wajer.app)** 🧑🏾‍🍳 | Culinary innovation | 🔥 |
+| **[Wajer](https://wajer.app)** 🧑🏾‍🍳 | Wager made easy | 🔥 |
 | **[Tracka](https://tracka.io)** ⛏️ | Tracking made simple | ⚡ |
 
 ## 📊 By the Numbers
