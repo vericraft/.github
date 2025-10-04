@@ -1,12 +1,33 @@
-## Hi there 👋
+# vericraft.
 
-<!--
+> Building products that excite people and make their lives (and ours) more fulfilling.
 
-**Here are some ideas to get you started:**
+We're a small team based in Tallinn who spend most of our time shipping great products. In 2025, we're launching a diverse portfolio of innovative products across high-growth categories like AI, gaming, and crypto.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 Our Products
+
+| Product | Description | Status |
+|---------|-------------|--------|
+| **[Prosoccer](https://prosoccer.io)** ⚽ | Soccer gaming experience | 🪦 |
+| **[Wajer](https://wajer.app)** 🧑🏾‍🍳 | Culinary innovation | 🔥 |
+| **[Tracka](https://tracka.io)** ⛏️ | Tracking made simple | ⚡ |
+
+## 📊 By the Numbers
+
+```
+Annual Revenue    €0        (but we're just getting started 💪)
+Global Users      0         (growing from zero to hero)
+Team Members      5         (small team, big dreams)
+```
+
+## 💬 Get in Touch
+
+Have an idea? Want to collaborate? Just want to say hi?
+
+📧 **[we@vericraft.tech](mailto:we@vericraft.tech)**
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ in Tallinn 🇪🇪</sub>
+</div>
